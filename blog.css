@@ -109,7 +109,7 @@ h1 {
   
 }
 .col-md-3 {
-  flex: 0 0 calc(25% - 20px); /* Four boxes per row on screens larger than 900px */
+  flex: 0 0 calc(50% - 20px); /* Four boxes per row on screens larger than 900px */
   margin: 10px; /* Adjust the margin between boxes */
   box-sizing: content-box;
 }
